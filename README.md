@@ -1,16 +1,101 @@
-<h1 align="center">Hi 👋, I'm Sohel Khan</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0005,50:1a001a,100:2d0028&height=170&section=header&text=Md%20Sohel%20Khan&fontSize=58&fontColor=f0abfc&animation=fadeIn&fontAlignY=52&desc=Full%20Stack%20Developer%20%7C%20Web%20Dev%20Enthusiast%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=15&descAlignY=75&descColor=c026d3" width="100%"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soheldevbd&show_icons=true&locale=en&layout=compact" alt="soheldevbd" /></p>
+[![Profile Views](https://komarev.com/ghpvc/?username=mdsohelkhan418126-coder&style=flat-square&color=701a75&label=PROFILE+VIEWS)](https://github.com/mdsohelkhan418126-coder)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true&locale=en" alt="soheldevbd" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soheldevbd&" alt="soheldevbd" /></p>
+<br/>
 
+---
+
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
+### 💡 About Me
+
+<br/>
+
+I'm a **Full Stack Developer** from Bangladesh, passionate about building modern and scalable web applications using cutting-edge technologies.
+
+- 🔭 &nbsp; Working on **Web Development Projects**
+- 🌱 &nbsp; Currently learning new tech every day
+- 👯 &nbsp; Open to **collaborations**
+- 💬 &nbsp; Ask me about **React · Node.js · MongoDB**
+- ⚡ &nbsp; Fun fact: *I turn coffee into code ☕*
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+<br/>
+
+![](https://img.shields.io/badge/──────────────────%20Frontend%20──────────────────-0a0005?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark&perline=6"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/───────────────────%20Backend%20───────────────────-0a0005?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark&perline=6"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/──────────────%20Cloud%20%26%20DevOps%20──────────────-0a0005?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,gcp,git,github,postman&theme=dark&perline=6"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/────────────────────%20Design%20────────────────────-0a0005?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=figma,ps,illustrator&theme=dark&perline=6"/>
+
+<br/><br/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=mdsohelkhan418126-coder&theme=dracula&no-frame=true&no-bg=true&margin-w=12&column=4" width="85%"/>
+<br/>
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+<br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdsohelkhan418126-coder&show_icons=true&hide_border=true&bg_color=0a0005&title_color=f0abfc&icon_color=d946ef&text_color=f5d0fe&rank_icon=github" width="47%"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdsohelkhan418126-coder&layout=compact&hide_border=true&bg_color=0a0005&title_color=f0abfc&text_color=f5d0fe" width="39%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mdsohelkhan418126-coder&hide_border=true&background=0a0005&ring=f0abfc&fire=d946ef&currStreakLabel=f5d0fe&sideLabels=f5d0fe&dates=701a75&stroke=f0abfc&currStreakNum=fdf4ff&sideNums=fdf4ff" width="60%"/>
+
+<br/>
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsohelkhan418126-coder&bg_color=0a0005&color=f0abfc&line=a21caf&point=fdf4ff&area=true&area_color=1f0018&hide_border=true&radius=6" width="98%"/>
+<br/>
+... (31 lines left)
