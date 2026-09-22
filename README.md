@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0005,50:1a001a,100:2d0028&height=170&section=header&text=Md%20Sohel%20Khan&fontSize=58&fontColor=f0abfc&animation=fadeIn&fontAlignY=52&desc=Full%20Stack%20Developer%20%7C%20Web%20Dev%20Enthusiast%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=15&descAlignY=75&descColor=c026d3" width="100%"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0005,50:1a001a,100:2d0028&height=190&section=header&text=Md%20Sohel%20Khan&fontSize=58&fontColor=f0abfc&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descSize=16&descAlignY=68&descColor=e879f9" width="100%"/>
 
 <br/>
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mdsohelkhan418126-coder&style=flat-square&color=701a75&label=PROFILE+VIEWS)](https://github.com/mdsohelkhan418126-coder)
+<a href="https://github.com/mdsohelkhan418126-coder">
+<img src="https://komarev.com/ghpvc/?username=mdsohelkhan418126-coder&style=for-the-badge&color=701a75&label=PROFILE+VIEWS"/>
+</a>
 
 </div>
 
@@ -14,88 +14,153 @@
 
 ---
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+## 👨‍💻 About Me
 
-### 💡 About Me
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
-<br/>
+Hi! I'm **Md Sohel Khan**, a passionate **Full Stack Developer from Bangladesh 🇧🇩** who enjoys building modern, responsive, and scalable web applications.
 
-I'm a **Full Stack Developer** from Bangladesh, passionate about building modern and scalable web applications using cutting-edge technologies.
+I love turning ideas into real-world products with clean code, intuitive interfaces, and modern technologies.
 
-- 🔭 &nbsp; Working on **Web Development Projects**
-- 🌱 &nbsp; Currently learning new tech every day
-- 👯 &nbsp; Open to **collaborations**
-- 💬 &nbsp; Ask me about **React · Node.js · MongoDB**
-- ⚡ &nbsp; Fun fact: *I turn coffee into code ☕*
+### 🚀 What I'm Focused On
+
+* 💻 Building modern **Full Stack Web Applications**
+* ⚛️ Developing with **React & Next.js**
+* 🟦 Writing scalable applications with **TypeScript**
+* 🌱 Continuously learning new technologies
+* 🤝 Open to collaboration and interesting projects
+* 🎯 Improving my problem-solving and development skills
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
-<br/>
 
-![](https://img.shields.io/badge/──────────────────%20Frontend%20──────────────────-0a0005?style=for-the-badge)
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark&perline=6"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/───────────────────%20Backend%20───────────────────-0a0005?style=for-the-badge)
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark&perline=7"/>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/──────────────%20Cloud%20%26%20DevOps%20──────────────-0a0005?style=for-the-badge)
+### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,gcp,git,github,postman&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&perline=6"/>
+
+<br/><br/>
+
+### ☁️ Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,gcp,postman&theme=dark&perline=6"/>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/────────────────────%20Design%20────────────────────-0a0005?style=for-the-badge)
+### 🎨 Design
 
-<img src="https://skillicons.dev/icons?i=figma,ps,illustrator&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&perline=6"/>
 
-<br/><br/>
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🚀 What I Build
 
 <div align="center">
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=mdsohelkhan418126-coder&theme=dracula&no-frame=true&no-bg=true&margin-w=12&column=4" width="85%"/>
-<br/>
+
+|          🌐 Web Apps         |        ⚡ Full Stack       |             🎨 UI/UX             |
+| :--------------------------: | :-----------------------: | :------------------------------: |
+| Modern & Responsive Websites | REST APIs & Database Apps | Clean & User-Friendly Interfaces |
+
 </div>
 
 ---
 
-### 📊 GitHub Statistics
+## 📂 Featured Projects
 
 <div align="center">
-<br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdsohelkhan418126-coder&show_icons=true&hide_border=true&bg_color=0a0005&title_color=f0abfc&icon_color=d946ef&text_color=f5d0fe&rank_icon=github" width="47%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdsohelkhan418126-coder&layout=compact&hide_border=true&bg_color=0a0005&title_color=f0abfc&text_color=f5d0fe" width="39%"/>
+<a href="https://github.com/mdsohelkhan418126-coder?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-701A75?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mdsohelkhan418126-coder&hide_border=true&background=0a0005&ring=f0abfc&fire=d946ef&currStreakLabel=f5d0fe&sideLabels=f5d0fe&dates=701a75&stroke=f0abfc&currStreakNum=fdf4ff&sideNums=fdf4ff" width="60%"/>
+</div>
 
 <br/>
+
+> 🚧 I'm continuously building and improving projects.
+> Visit my repositories to explore my latest work.
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mdsohelkhan418126-coder&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=4"/>
+
 </div>
 
 ---
 
-### 📈 Contribution Graph
+## 📊 GitHub Statistics
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdsohelkhan418126-coder&show_icons=true&hide_border=true&bg_color=0a0005&title_color=f0abfc&icon_color=d946ef&text_color=f5d0fe&rank_icon=github&cache_seconds=1800" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsohelkhan418126-coder&layout=compact&hide_border=true&bg_color=0a0005&title_color=f0abfc&text_color=f5d0fe&cache_seconds=1800" width="40%"/>
+
+</div>
+
 <br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=mdsohelkhan418126-coder&hide_border=true&background=0a0005&ring=f0abfc&fire=d946ef&currStreakLabel=f5d0fe&sideLabels=f5d0fe&dates=701a75&stroke=f0abfc&currStreakNum=fdf4ff&sideNums=fdf4ff" width="65%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsohelkhan418126-coder&bg_color=0a0005&color=f0abfc&line=a21caf&point=fdf4ff&area=true&area_color=1f0018&hide_border=true&radius=6" width="98%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/mdsohelkhan418126-coder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-701A75?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
 <br/>
-... (31 lines left)
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+**Code • Create • Learn • Repeat 🚀**
+
+</div>
+
