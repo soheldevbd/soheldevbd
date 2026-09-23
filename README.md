@@ -152,7 +152,10 @@ Clean & user-friendly interfaces
 <div align="center">
 
 <a href="https://github.com/soheldevbd">
-<img src="https://img.shields.io/badge/View_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img
+    src="https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub Activity"
+  />
 </a>
 
 <a href="https://github.com/soheldevbd?tab=repositories">
