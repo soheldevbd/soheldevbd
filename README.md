@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=soheldevbd&style=flat-square&color=701a75&label=PROFILE+VIEWS)](https://github.com/mdsohelkhan418126-coder)
+[![Profile Views](https://komarev.com/ghpvc/?username=soheldevbd&style=flat-square&color=701a75&label=PROFILE+VIEWS)](https://github.com/soheldevbd)
 
 </div>
 
