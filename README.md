@@ -64,13 +64,6 @@ I'm a **Full Stack Developer** from Bangladesh, passionate about building modern
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=soheldevbd&theme=dracula&no-frame=true&no-bg=true&margin-w=12&column=4" width="85%"/>
-<br/>
-</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=soheldevbd&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=soheldevbd&theme=dark&hide_border=true)<br/>
