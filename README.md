@@ -81,7 +81,7 @@ I love turning ideas into real-world products with clean code, intuitive interfa
 
 <div align="center">
 
-<a href="https://github.com/mdsohelkhan418126-coder?tab=repositories">
+<a href="https://github.com/soheldevbd?tab=repositories">
 <img src="https://img.shields.io/badge/Explore%20My%20Repositories-701A75?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
