@@ -98,7 +98,7 @@ I love turning ideas into real-world products with clean code, intuitive interfa
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mdsohelkhan418126-coder&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=soheldevbd&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=4"/>
 
 </div>
 
@@ -108,7 +108,7 @@ I love turning ideas into real-world products with clean code, intuitive interfa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdsohelkhan418126-coder&show_icons=true&hide_border=true&bg_color=0a0005&title_color=f0abfc&icon_color=d946ef&text_color=f5d0fe&rank_icon=github&cache_seconds=1800" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true&hide_border=true&bg_color=0a0005&title_color=f0abfc&icon_color=d946ef&text_color=f5d0fe&rank_icon=github&cache_seconds=1800" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsohelkhan418126-coder&layout=compact&hide_border=true&bg_color=0a0005&title_color=f0abfc&text_color=f5d0fe&cache_seconds=1800" width="40%"/>
 
