@@ -8,16 +8,16 @@
 
 Building modern, responsive and scalable web applications.
 
-<br/>
+<br />
 
 <a href="https://github.com/soheldevbd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/soheldevbd?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-701A75?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-701A75?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=soheldevbd&style=for-the-badge&color=701A75&label=PROFILE+VIEWS" />
 
@@ -29,48 +29,52 @@ Building modern, responsive and scalable web applications.
 
 Hi, I'm **Md Sohel Khan**, a Full Stack Developer from Bangladesh 🇧🇩.
 
-I enjoy building modern web applications with clean architecture, responsive interfaces and scalable technologies.
+I build modern web applications with a focus on **clean code, responsive UI, scalable architecture and great user experience**.
 
-My goal is to transform ideas into reliable and user-friendly digital products.
+I'm passionate about turning ideas into reliable digital products and continuously improving my development skills.
 
-### 🚀 What I Do
-
-- 💻 Full Stack Web Development
-- ⚛️ React & Next.js Applications
-- 🟦 TypeScript Development
-- 🔗 REST API Development
-- 🗄️ Database-driven Applications
-- 🎨 Responsive UI Development
-- 🚀 Web Application Deployment
-- 🌱 Continuous Learning & Improvement
+* 💻 Full Stack Web Development
+* ⚛️ React & Next.js Development
+* 🟦 TypeScript Development
+* 🔗 REST API Development
+* 🗄️ Database-driven Applications
+* 🎨 Responsive & Modern UI
+* 🚀 Deployment & Production Development
+* 🌱 Continuous Learning
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark&perline=7" />
+<div align="left">
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+</div>
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&perline=6" />
+<div align="left">
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+</div>
 
 ### Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,gcp,postman&theme=dark&perline=6" />
+<div align="left">
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,gcp,postman" />
+
+</div>
 
 ### Design
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&perline=6" />
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
 </div>
 
@@ -78,55 +82,48 @@ My goal is to transform ideas into reliable and user-friendly digital products.
 
 ## 💼 Development Skills
 
-<div align="center">
-
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js |
-| **Styling** | Tailwind CSS, Responsive Design |
-| **Backend** | Node.js, Express.js, REST API |
-| **Database** | MongoDB, Firebase |
-| **Tools** | Git, GitHub, Postman |
-| **Deployment** | Vercel, Netlify, Google Cloud |
-| **Design** | Figma, Photoshop, Illustrator |
-
-</div>
+| Area               | Technologies                                      |
+| :----------------- | :------------------------------------------------ |
+| **Frontend**       | HTML, CSS, JavaScript, TypeScript, React, Next.js |
+| **Styling**        | Tailwind CSS, Responsive Design                   |
+| **Backend**        | Node.js, Express.js, REST API                     |
+| **Database**       | MongoDB, Firebase                                 |
+| **Authentication** | Firebase Authentication, JWT                      |
+| **Tools**          | Git, GitHub, Postman                              |
+| **Deployment**     | Vercel, Netlify, Google Cloud                     |
+| **Design**         | Figma, Photoshop, Illustrator                     |
 
 ---
 
 ## 🚀 What I Build
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🌐 Web Apps
+### 🌐 Web Applications
 
-Modern & responsive web applications
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚡ Full Stack
-
-APIs, authentication & databases
+Modern and responsive applications with clean interfaces and scalable architecture.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🎨 UI/UX
+### ⚡ Full Stack Systems
 
-Clean & user-friendly interfaces
+REST APIs, authentication, databases and complete client-server applications.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎨 Modern UI
+
+Responsive interfaces focused on usability, accessibility and user experience.
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -135,40 +132,45 @@ Clean & user-friendly interfaces
 <div align="center">
 
 <a href="https://github.com/soheldevbd?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-701A75?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_MY_PROJECTS-701A75?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
+<br />
 
 > 🚧 I'm continuously building and improving projects.
-> Explore my repositories to see my latest work.
+>
+> Check my repositories to explore my latest work, experiments and applications.
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/soheldevbd">
 <img
-    src="https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub Activity"
-  />
-</a>
+src="https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=86400"
+height="180"
+/>
 
-<a href="https://github.com/soheldevbd?tab=repositories">
-<img src="https://img.shields.io/badge/View_All_Projects-701A75?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheldevbd&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400"
+height="180"
+/>
 
 </div>
 
-<br/>
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soheldevbd&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true&radius=8" width="95%" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=soheldevbd&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true&radius=8"
+width="95%"
+/>
 
 </div>
 
@@ -177,9 +179,51 @@ Clean & user-friendly interfaces
 ## 🎯 Current Focus
 
 ```text
-React / Next.js          ████████████████████░
-TypeScript               ██████████████████░░░
-Node.js / Express        ████████████████░░░░░
-MongoDB / Firebase       ███████████████░░░░░░
-Tailwind CSS             █████████████████░░░░
+React / Next.js          ████████████████████
+TypeScript               ██████████████████░░
+Node.js / Express        ████████████████░░░░
+MongoDB / Firebase       ███████████████░░░░░
+Tailwind CSS             █████████████████░░░
+REST API Development     ████████████████░░░░
+Clean Architecture       ███████████████░░░░░
+```
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Next.js
+* TypeScript
+* Backend Architecture
+* REST API Design
+* Database Optimization
+* Authentication & Authorization
+* Performance Optimization
+* Scalable Application Architecture
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/soheldevbd">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/soheldevbd?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-701A75?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+**Let's build something great together.**
+
+</div>
 
