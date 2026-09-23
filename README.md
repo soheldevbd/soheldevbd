@@ -110,7 +110,7 @@ I love turning ideas into real-world products with clean code, intuitive interfa
 
 <img src="https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true&hide_border=true&bg_color=0a0005&title_color=f0abfc&icon_color=d946ef&text_color=f5d0fe&rank_icon=github&cache_seconds=1800" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsohelkhan418126-coder&layout=compact&hide_border=true&bg_color=0a0005&title_color=f0abfc&text_color=f5d0fe&cache_seconds=1800" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheldevbd&layout=compact&hide_border=true&bg_color=0a0005&title_color=f0abfc&text_color=f5d0fe&cache_seconds=1800" width="40%"/>
 
 </div>
 
@@ -118,7 +118,7 @@ I love turning ideas into real-world products with clean code, intuitive interfa
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mdsohelkhan418126-coder&hide_border=true&background=0a0005&ring=f0abfc&fire=d946ef&currStreakLabel=f5d0fe&sideLabels=f5d0fe&dates=701a75&stroke=f0abfc&currStreakNum=fdf4ff&sideNums=fdf4ff" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=soheldevbd&hide_border=true&background=0a0005&ring=f0abfc&fire=d946ef&currStreakLabel=f5d0fe&sideLabels=f5d0fe&dates=701a75&stroke=f0abfc&currStreakNum=fdf4ff&sideNums=fdf4ff" width="65%"/>
 
 </div>
 
@@ -128,7 +128,7 @@ I love turning ideas into real-world products with clean code, intuitive interfa
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsohelkhan418126-coder&bg_color=0a0005&color=f0abfc&line=a21caf&point=fdf4ff&area=true&area_color=1f0018&hide_border=true&radius=6" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soheldevbd&bg_color=0a0005&color=f0abfc&line=a21caf&point=fdf4ff&area=true&area_color=1f0018&hide_border=true&radius=6" width="98%"/>
 
 </div>
 
@@ -138,7 +138,7 @@ I love turning ideas into real-world products with clean code, intuitive interfa
 
 <div align="center">
 
-<a href="https://github.com/mdsohelkhan418126-coder">
+<a href="https://github.com/soheldevbd">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
