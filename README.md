@@ -1,4 +1,14 @@
+### 💡 About Me
 
+<br/>
+
+I'm a **Full Stack Developer** from Bangladesh, passionate about building modern and scalable web applications using cutting-edge technologies.
+
+- 🔭 &nbsp; Working on **Web Development Projects**
+- 🌱 &nbsp; Currently learning new tech every day
+- 👯 &nbsp; Open to **collaborations**
+- 💬 &nbsp; Ask me about **React · Node.js · MongoDB**
+- ⚡ &nbsp; Fun fact: *I turn coffee into code ☕*
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohel-mia-791497414) 
 
