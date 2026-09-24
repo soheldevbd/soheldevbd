@@ -1,6 +1,23 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0005,50:1a001a,100:2d0028&height=170&section=header&text=Md%20Sohel%20Khan&fontSize=58&fontColor=f0abfc&animation=fadeIn&fontAlignY=52&desc=Full%20Stack%20Developer%20%7C%20Web%20Dev%20Enthusiast%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=15&descAlignY=75&descColor=c026d3" width="100%"/>
-</div>
+### Hi there 👋, hey Sohel khan
+#### I am Full Stack Developer | React.js | Next.js | Node.js | MongoDB Building modern, scalable and user-friendly web applications Readme Generator's creator
+![I am Full Stack Developer | React.js | Next.js | Node.js | MongoDB Building modern, scalable and user-friendly web applications Readme Generator's creator](https://github.com/soheldevbd/soheldevbd/blob/main/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: Next/ REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/soheldevbd)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soheldevbd)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=soheldevbd)  
+
+
 
 <br/>
 
