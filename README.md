@@ -1,23 +1,7 @@
-### Hi there 👋, hey Sohel khan
-#### I am Full Stack Developer | React.js | Next.js | Node.js | MongoDB Building modern, scalable and user-friendly web applications Readme Generator's creator
-![I am Full Stack Developer | React.js | Next.js | Node.js | MongoDB Building modern, scalable and user-friendly web applications Readme Generator's creator](https://github.com/soheldevbd/soheldevbd/blob/main/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: Next/ REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/soheldevbd)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soheldevbd)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=soheldevbd)  
-
-
 
 <br/>
 
@@ -96,13 +80,13 @@ I'm a **Full Stack Developer** from Bangladesh, passionate about building modern
 <div align="center">
 <br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdsohelkhan418126-coder&show_icons=true&hide_border=true&bg_color=0a0005&title_color=f0abfc&icon_color=d946ef&text_color=f5d0fe&rank_icon=github" width="47%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=soheldevbd&show_icons=true&hide_border=true&bg_color=0a0005&title_color=f0abfc&icon_color=d946ef&text_color=f5d0fe&rank_icon=github" width="47%"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdsohelkhan418126-coder&layout=compact&hide_border=true&bg_color=0a0005&title_color=f0abfc&text_color=f5d0fe" width="39%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soheldevbd&layout=compact&hide_border=true&bg_color=0a0005&title_color=f0abfc&text_color=f5d0fe" width="39%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mdsohelkhan418126-coder&hide_border=true&background=0a0005&ring=f0abfc&fire=d946ef&currStreakLabel=f5d0fe&sideLabels=f5d0fe&dates=701a75&stroke=f0abfc&currStreakNum=fdf4ff&sideNums=fdf4ff" width="60%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soheldevbd&hide_border=true&background=0a0005&ring=f0abfc&fire=d946ef&currStreakLabel=f5d0fe&sideLabels=f5d0fe&dates=701a75&stroke=f0abfc&currStreakNum=fdf4ff&sideNums=fdf4ff" width="60%"/>
 
 <br/>
 </div>
@@ -113,7 +97,7 @@ I'm a **Full Stack Developer** from Bangladesh, passionate about building modern
 
 <div align="center">
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsohelkhan418126-coder&bg_color=0a0005&color=f0abfc&line=a21caf&point=fdf4ff&area=true&area_color=1f0018&hide_border=true&radius=6" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soheldevbd&bg_color=0a0005&color=f0abfc&line=a21caf&point=fdf4ff&area=true&area_color=1f0018&hide_border=true&radius=6" width="98%"/>
 <br/>
 ... (31 lines left)
 
