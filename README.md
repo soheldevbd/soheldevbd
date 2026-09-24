@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/soheldevbd)  
+
 
 <br/>
 
@@ -54,13 +54,7 @@ I'm a **Full Stack Developer** from Bangladesh, passionate about building modern
 
 ---
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=mdsohelkhan418126-coder&theme=dracula&no-frame=true&no-bg=true&margin-w=12&column=4" width="85%"/>
-<br/>
-</div>
 
 ---
 
