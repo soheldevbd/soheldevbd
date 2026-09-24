@@ -1,15 +1,4 @@
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/soheldevbd)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soheldevbd)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mdsohelkhan418126-coder&style=flat-square&color=701a75&label=PROFILE+VIEWS)](https://github.com/mdsohelkhan418126-coder)
-
-</div>
 
 <br/>
 
