@@ -1,4 +1,4 @@
-
+![I am GitHub Readme Generator's creator](https://github.com/soheldevbd/soheldevbd/blob/main/banner.png)
 
 <br/>
 
@@ -51,11 +51,6 @@ I'm a **Full Stack Developer** from Bangladesh, passionate about building modern
 
 <br/><br/>
 </div>
-
----
-
-
-
 ---
 
 ### 📊 GitHub Statistics
