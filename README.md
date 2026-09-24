@@ -69,14 +69,6 @@ I'm a **Full Stack Developer** from Bangladesh, passionate about building modern
 <br/>
 </div>
 
----
 
-### 📈 Contribution Graph
-
-<div align="center">
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soheldevbd&bg_color=0a0005&color=f0abfc&line=a21caf&point=fdf4ff&area=true&area_color=1f0018&hide_border=true&radius=6" width="98%"/>
-<br/>
-... (31 lines left)
 
 
