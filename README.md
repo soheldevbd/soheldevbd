@@ -90,9 +90,15 @@ A fitness tracking web application designed to help users manage and track their
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheldevbd&layout=compact&theme=transparent&hide_border=true" height="170" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheldevbd&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+/>
 
 </div>
 
