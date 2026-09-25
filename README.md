@@ -1,74 +1,148 @@
-![I am GitHub Readme Generator's creator](https://github.com/soheldevbd/soheldevbd/blob/main/banner.png)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Md%20Sohel%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%" />
+
+# 👋 Hi, I'm Md Sohel Khan
+
+### Full Stack Developer
+
+**React.js • Next.js • TypeScript • Node.js • MongoDB**
+
+I build modern, responsive, and scalable web applications with a focus on clean UI, reusable components, and practical user experiences.
 
 <br/>
+
+<a href="https://github.com/soheldevbd">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+## 👨‍💻 About Me
 
-### 💡 About Me
+I'm a Full Stack Developer passionate about building modern web applications using JavaScript and TypeScript technologies.
 
-<br/>
+I enjoy turning ideas into functional, responsive, and user-friendly products while continuously improving my frontend, backend, and database development skills.
 
-I'm a **Full Stack Developer** from Bangladesh, passionate about building modern and scalable web applications using cutting-edge technologies.
-
-- 🔭 &nbsp; Working on **Web Development Projects**
-- 🌱 &nbsp; Currently learning new tech every day
-- 👯 &nbsp; Open to **collaborations**
-- 💬 &nbsp; Ask me about **React · Node.js · MongoDB**
-- ⚡ &nbsp; Fun fact: *I turn coffee into code ☕*
-
-<br clear="right"/>
+* 🔭 Currently exploring **Next.js & Full Stack Development**
+* 🌱 Improving my skills in **TypeScript, Backend Development & Databases**
+* 💻 Building real-world web applications
+* 🧩 Learning better software architecture and reusable code patterns
+* 🚀 Interested in building scalable and production-ready applications
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💻 DevStack
+
+A modern developer-focused web application built with modern JavaScript technologies.
+
+**Tech:** React.js • Next.js • TypeScript • Tailwind CSS
+
+🔗 **Live Demo:** `YOUR_LIVE_LINK`
+🔗 **Repository:** https://github.com/soheldevbd
+
+---
+
+### 💪 FitLog
+
+A fitness tracking web application designed to help users manage and track their fitness activities.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • MongoDB
+
+🔗 **Live Demo:** `YOUR_LIVE_LINK`
+🔗 **Repository:** https://github.com/soheldevbd
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-<br/>
 
-![](https://img.shields.io/badge/──────────────────%20Frontend%20──────────────────-0a0005?style=for-the-badge)
+<img src="https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark&perline=6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheldevbd&layout=compact&theme=transparent&hide_border=true" height="170" />
 
-<br/><br/>
-
-![](https://img.shields.io/badge/───────────────────%20Backend%20───────────────────-0a0005?style=for-the-badge)
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark&perline=6"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/──────────────%20Cloud%20%26%20DevOps%20──────────────-0a0005?style=for-the-badge)
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,gcp,git,github,postman&theme=dark&perline=6"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/────────────────────%20Design%20────────────────────-0a0005?style=for-the-badge)
-
-<img src="https://skillicons.dev/icons?i=figma,ps,illustrator&theme=dark&perline=6"/>
-
-<br/><br/>
 </div>
 
-
-### 📊 GitHub Statistics
+<br/>
 
 <div align="center">
-<br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=soheldevbd&show_icons=true&hide_border=true&bg_color=0a0005&title_color=f0abfc&icon_color=d946ef&text_color=f5d0fe&rank_icon=github" width="47%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soheldevbd&layout=compact&hide_border=true&bg_color=0a0005&title_color=f0abfc&text_color=f5d0fe" width="39%"/>
+<img src="https://streak-stats.demolab.com?user=soheldevbd&theme=transparent&hide_border=true" />
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soheldevbd&hide_border=true&background=0a0005&ring=f0abfc&fire=d946ef&currStreakLabel=f5d0fe&sideLabels=f5d0fe&dates=701a75&stroke=f0abfc&currStreakNum=fdf4ff&sideNums=fdf4ff" width="60%"/>
-
-<br/>
 </div>
 
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soheldevbd&theme=github-compact&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/soheldevbd">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building, learning, and improving one project at a time."
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>
 
 
 
