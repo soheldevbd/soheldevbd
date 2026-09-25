@@ -85,7 +85,6 @@ A fitness tracking web application designed to help users manage and track their
 🔗 **Repository:** https://github.com/soheldevbd
 
 ---
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -93,11 +92,13 @@ A fitness tracking web application designed to help users manage and track their
 <img
   src="https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   height="180"
+  alt="GitHub Statistics"
 />
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheldevbd&layout=compact&theme=tokyonight&hide_border=true"
   height="180"
+  alt="Top Languages"
 />
 
 </div>
@@ -106,9 +107,26 @@ A fitness tracking web application designed to help users manage and track their
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=soheldevbd&theme=transparent&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=soheldevbd&theme=transparent&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=soheldevbd&theme=github-compact&hide_border=true"
+  width="100%"
+  alt="Contribution Graph"
+/>
+
+</div>
+
+
 
 ---
 
