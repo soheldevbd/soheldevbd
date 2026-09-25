@@ -15,10 +15,10 @@ I build modern, responsive, and scalable web applications with a focus on clean 
 <a href="https://github.com/soheldevbd">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mdsohelkhan418126@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sohel-mia-791497414/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -70,7 +70,7 @@ A modern developer-focused web application built with modern JavaScript technolo
 
 **Tech:** React.js • Next.js • TypeScript • Tailwind CSS
 
-🔗 **Live Demo:** `YOUR_LIVE_LINK`
+🔗 **Live Demo:** https://devstack-peach.vercel.app/
 🔗 **Repository:** https://github.com/soheldevbd
 
 ---
@@ -81,7 +81,7 @@ A fitness tracking web application designed to help users manage and track their
 
 **Tech:** Next.js • TypeScript • Tailwind CSS • MongoDB
 
-🔗 **Live Demo:** `YOUR_LIVE_LINK`
+🔗 **Live Demo:** https://fit-log-sage.vercel.app/
 🔗 **Repository:** https://github.com/soheldevbd
 
 ---
