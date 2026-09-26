@@ -103,27 +103,6 @@ https://fit-log-sage.vercel.app/
 
 🔗 **GitHub:**  
 https://github.com/soheldevbd
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=soheldevbd&show_icons=true&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheldevbd&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Top Languages"
-/>
-
-</div>
-
 ---
 
 # 🔥 GitHub Streak
@@ -138,21 +117,6 @@ https://github.com/soheldevbd
 </div>
 
 ---
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=soheldevbd&theme=github-compact&hide_border=true"
-  width="100%"
-  alt="Contribution Graph"
-/>
-
-</div>
-
----
-
 # 📫 Connect With Me
 
 <div align="center">
