@@ -13,25 +13,9 @@
 
 I build modern, responsive, and scalable web applications with a focus on
 clean UI, reusable components, and practical user experiences.
-
 <br/>
-
-<a href="https://github.com/soheldevbd">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:mdsohelkhan418126@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/sohel-mia-791497414/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 </div>
-
 ---
-
 ## 👨‍💻 About Me
 
 I'm a Full Stack Developer passionate about building modern web applications
